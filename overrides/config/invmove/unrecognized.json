@@ -1,0 +1,6 @@
+{
+  "allowMovement": {
+    "xaero.map.gui.GuiMap": true
+  },
+  "hideBackground": {}
+}
