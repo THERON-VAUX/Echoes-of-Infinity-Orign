@@ -1,4 +1,4 @@
-<h1 align="center">Echoes of Infinity : Orign</h1>
+<h1 align="center">Radiant MC</h1>
 <img width="2400" height="1080" alt="2026-02-07_21 35 23 拷贝01" src="https://github.com/user-attachments/assets/6cbf2d04-774c-46a0-b52a-6627724bc9af" />
 
 # 欢迎使用这个小小的轻量级整合包
@@ -7,9 +7,10 @@
 > 你可以带上你的朋友探索这个宏大的世界，一起探索和创造
 
 # 关于
-- 作者：
-- 概述：
+- 作者：Radiant Rain
+- 概述：一个美丽的整合包
 - 其他：
   - 配置要求：
-    - 推荐：12GB 骁龙870
+    - 最低：6GB 骁龙665
+    - 推荐：8GB 骁龙778G
     - 存储空间；需要 3GB 的可用存储空间
