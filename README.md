@@ -1,9 +1,10 @@
 <h1 align="center">Echoes of Infinity : Orign</h1>
 <img width="2400" height="1080" alt="2026-02-07_21 35 23 拷贝01" src="https://github.com/user-attachments/assets/6cbf2d04-774c-46a0-b52a-6627724bc9af" />
 
-[![GitHub Stars](https://img.shields.io/github/stars/THERON-VAUX/Echoes-of-Infinity-Orign?style=social)](https://github.com/THERON-VAUX/Echoes-of-Infinity-Orign/stargazers) [About]()
+[![GitHub Stars](https://img.shields.io/github/stars/THERON-VAUX/Echoes-of-Infinity-Orign?style=social)](https://github.com/THERON-VAUX/Echoes-of-Infinity-Orign/stargazers)
 
-# 欢迎使用这个小小的轻量级整合包
+# 欢迎使用
+## 这个小小的轻量级整合包
 > 这是一个神奇的世界，有神奇的动物；你可以在中自由穿梭or探索，你开朗的精神将带领它们走出这个黑暗的世界，一切规则由你制定、由你独裁！
 
 > 你可以带上你的朋友探索这个宏大的世界，一起探索和创造
@@ -16,10 +17,11 @@
 ## 版本列表
 | 整合包版本 | 核心 | 发布时间 | 大小 | 下载 | 维护者 |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
-| 1.0Alpha | 1.21.11.jar | 2026/0207 | 88.6MB | Download | Radiant Rain |
+| 1.0Alpha | 1.21.11.jar | 2026/02/07 | 88.6MB | [Download](https://github.com/THERON-VAUX/Echoes-of-Infinity-Orign/releases/tag/1.0alpha) | Radiant Rain |
+| 26.0.1 | 1.21.11.jar | 2026/02/08 | 95.6MB | [Download](https://github.com/THERON-VAUX/Echoes-of-Infinity-Orign/releases/tag/26.0.1) | Radiant Rain |
 
 ## 关于
-- 作者：Radiant Rain
+- 作者：KostyOvo、Radiant Rain
 - 概述：一个美丽的整合包
 - 其他：
   - 配置要求：
