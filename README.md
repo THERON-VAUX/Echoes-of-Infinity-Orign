@@ -18,7 +18,7 @@
 | 整合包版本 | 核心 | 发布时间 | 大小 | 下载 | 维护者 |
 | :------------: | :------------: | :------------: | :------------: | :------------: | :------------: |
 | 1.0Alpha | 1.21.11.jar | 2026/02/07 | 88.6MB | [Download](https://github.com/THERON-VAUX/Echoes-of-Infinity-Orign/releases/tag/1.0alpha) | Radiant Rain |
-| 26.0.1 | 1.21.11.jar | 2026/02/08 | 95.6MB | [Download](https://github.com/THERON-VAUX/Echoes-of-Infinity-Orign/releases/tag/26.0.1) | Radiant Rain |
+| 26.0.1 | 1.21.11.jar | 2026/02/08 | 107.6MB | [Download](https://github.com/THERON-VAUX/Echoes-of-Infinity-Orign/releases/tag/26.0.1) | Radiant Rain |
 
 ## 关于
 - 作者：KostyOvo、Radiant Rain
